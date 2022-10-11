@@ -42,7 +42,7 @@ Recent improvements in remote sensing techniques (RST) allow for collecting hype
   issn = {0957-4174},
   doi = {https://doi.org/10.1016/j.eswa.2022.118971},
   url = {https://www.sciencedirect.com/science/article/pii/S0957417422019893},
-  author = {Dalal AL-Alimi and Zhihua Cai and Mohammed A.A. Al-qaness and Eman {Ahmed Alawamy} and Ahamed Alalimi}
+  author = {Dalal AL-Alimi and Zhihua Cai and Mohammed A.A. Al-qaness and Eman Ahmed Alawamy and Ahamed Alalimi}
   }
 }
 ```
