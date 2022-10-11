@@ -19,6 +19,16 @@ Recent improvements in remote sensing techniques (RST) allow for collecting hype
 > - sklearn 
 > - spectral 0.22.4 
 
+### The second part of the correction to the position of each pixel in the transferred image.
+![alt text](https://github.com/DalalAL-Alimi/ETR/blob/main/images/3.png)
+
+### The results of enhancing transformation reduction (ETR) for the first feature of the KSC dataset.
+![alt text](https://github.com/DalalAL-Alimi/ETR/blob/main/images/6.png)
+
+### The time complexity of the enhancing transformation reduction (ETR) method.
+![alt text](https://github.com/DalalAL-Alimi/ETR/blob/main/images/7.png)
+
+
 
 ## Citation
 ### We would appreciate a citation to the original paper if you use this code in your research works.
